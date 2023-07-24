@@ -34,3 +34,9 @@ body {
 .card p:hover {
   cursor: pointer;
 }
+
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
+}
