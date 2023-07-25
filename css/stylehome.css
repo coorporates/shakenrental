@@ -34,13 +34,3 @@ body {
 .card p:hover {
   cursor: pointer;
 }
-
-@media (max-width: 350px) {
-  html {
-    font-size: 70%;
-  }
-}
-
-.nav-link a:hover {
-  color: crimson;
-}
