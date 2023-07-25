@@ -35,7 +35,7 @@ body {
   cursor: pointer;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 350px) {
   html {
     font-size: 70%;
   }
